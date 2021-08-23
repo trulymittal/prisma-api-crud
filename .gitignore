@@ -1,0 +1,5 @@
+node_modules
+# Intentionally keeping the environment variables in version control for tutorial purposes, otherwise it should be out of version control
+# .env
+!*./prisma/schema.prisma
+
